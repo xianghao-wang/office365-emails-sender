@@ -1,10 +1,5 @@
 import email_sender as es
 
-# user_name = 'xiangwan@trinity.unimelb.edu.au'
-
-
-# sender.send_eamil('Xianghao', receivers, '友善的问候', '有本事来我公寓打我啊！')
-
 def login():
     sender = None
 
